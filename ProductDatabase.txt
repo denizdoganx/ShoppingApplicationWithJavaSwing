@@ -1,0 +1,100 @@
+1
+ACER Nitro 5 An515-57 Intel Core I5 11400h 16gb 512gb Ssd Rtx 3060 Freedos 15.6" Nh.qewey.002 Acer Nitro AN515-57 NH.QEWEY.002
+969$
+Bozdan Technology
+images/acerIcon.jpg
+images/acer1.jpg
+images/acer2.jpg
+images/acer3.jpg
+images/acer4.jpg
+16
+2
+Apple Macbook Pro 13" M1 8gb 256gb Ssd Uzay Grisi MYD82TU/A
+1212$
+MAYTECH
+images/macbookIcon.jpg
+images/macbook1.jpg
+images/macbook2.jpg
+images/macbook3.jpg
+images/macbook4.jpg
+12
+3
+Ferrucci Function Erkek Kol Saati Çelik Kordon Çelik Kasa Bileklik Hediyeli zmfer041
+48$
+ZMSAAT
+images/watchIcon.jpg
+images/watch1.jpg
+images/watch2.jpg
+images/watch3.jpg
+images/watch4.jpg
+48
+4
+VESTEL 55UA9600 55" 139 Ekran Uydu Alıcılı 4K Ultra HD Smart LED TV TV-UA9600
+437$
+Altınoğlu-Vestel Yetkili Online Bayi
+images/vestelIcon.jpg
+images/vestel1.jpg
+images/vestel2.jpg
+images/vestel3.jpg
+images/vestel4.jpg
+37
+5
+Adidas Runfalcon 2.0 Erkek Koşu Ayakkabısı Fz2803 Siyah FY5943
+57$
+Koray Spor
+images/adidasIcon.jpg
+images/adidas1.jpg
+images/adidas2.jpg
+images/adidas3.jpg
+images/adidas4.jpg
+159
+6
+Monster Abra A5 V18.1.3 Intel Core I7 11800h 16gb 500gb Ssd Rtx3050 Freedos 15.6'' Fhd ABRA A5 V18.1.3
+877$
+Monster Notebook
+images/monsterIcon.jpg
+images/monster1.jpg
+images/monster2.jpg
+images/monster3.jpg
+images/monster4.jpg
+44
+7
+LENOVO Ip Gaming 3 Core I5-11300h 8gb 512gb Ssd Gtx1650 Freedos 15.6'' Fhd 120hz Taşınabilir Bilgisayar 82K100CTTX
+943$
+Adak Bilgisayar
+images/lenovoIcon.jpg
+images/lenovo1.jpg
+images/lenovo2.jpg
+images/lenovo3.jpg
+images/lenovo4.jpg
+11
+8
+ASUS Tuf Gaming Fx506lh-hn004 I5 10300h 8gb 512ssd Gtx1650 15.6" Fullhd Freedos Taşınabilir Bilgisay T09573
+787$
+Websinial
+images/asusIcon.jpg
+images/asus1.jpg
+images/asus2.jpg
+images/asus3.jpg
+images/asus4.jpg
+29
+9
+HP Omen Laptop Intel Core I7 11800h 16 Gb 1 Tb Ssd Rtx 3080 165 Hz 17.3 Qhd Windows 10 Home 4h0y0ea 4H0Y0EA
+2400$
+GpnTeknoloji
+images/hpIcon.jpg
+images/hp1.jpg
+images/hp2.jpg
+images/hp3.jpg
+images/hp4.jpg
+4
+10
+MSI Bravo 15 B5dd-210tr01 Ryzen7 5800h 16gb 1tbssd Rx5500m 15.6" Fullhd W11h Taşınabilir Bilgisayar T12973A
+1189$
+Teknoraks
+images/msiIcon.jpg
+images/msi1.jpg
+images/msi2.jpg
+images/msi3.jpg
+images/msi4.jpg
+17
